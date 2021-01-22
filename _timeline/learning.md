@@ -19,5 +19,7 @@ events:
   - mit-scratch
   - sugar-neighborhood
   - minecraft-end-user
+  - army-training-vr
+  - education-ar
 ---
 

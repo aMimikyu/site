@@ -27,4 +27,6 @@ slides:
   - learntomod
   - hackathon
   - hackerspace
+  - army-training-vr
+  - education-ar
 ---
